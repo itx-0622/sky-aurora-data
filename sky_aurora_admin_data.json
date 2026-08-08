@@ -14,11 +14,11 @@
   "user_blacklist": [],
   "manuals": [
     {
-      "id": 1786194169,
+      "id": 1786194985,
       "category": "그라운드 크루(GC) 기본매뉴얼",
       "pinned": false,
       "title": "탑승교(제트웨이)사용법",
-      "content": "<span style='font-size:25px; font-weight:bold;'>탑승교 사용법</span>\n\n<hr/>\n\n<span style='font-size:15px; font-weight:bold;'>입장및 기본 상호작용 </span>\n\n1. 눈 버튼을 누르면 도어를 열수있다 \n<div style=\"margin:15px 0; position:relative; display:inline-block;\">\n    <button class=\"btn-ui\" onclick=\"showBubblePop(this, '눈버튼을 누르면 도어를 열거나 상호작용이 됩니다.')\">눈버튼</button>\n</div>\n<div class=\"key-display\">\n    <span>실제 버튼을 눌러보세요:</span>\n    <div id=\"active-key-cap\" class=\"key-cap\">KEY</div>\n</div>"
+      "content": "<span style='font-size:25px; font-weight:bold;'>탑승교 사용법</span>\n\n<hr/>\n\n<span style='font-size:15px; font-weight:bold;'>입장및 기본 상호작용 </span>\n\n1. 눈 버튼을 누르면 도어를 열수있다 \n<div style=\"margin:15px 0; position:relative; display:inline-block;\">\n    <button class=\"btn-ui\" onclick=\"showBubblePop(this, '눈버튼을 누르면 도어를 열거나 상호작용이 됩니다.')\">눈버튼</button>\n</div>\n\n2. 사람모양의 버튼을 누르면 탑승교를 조작할수 있다. \n<div style=\"margin:15px 0; position:relative; display:inline-block;\">\n    <button class=\"btn-ui\" onclick=\"showBubblePop(this, '사람모양의 버튼을 눌러 탑승교를 조작할수 있습니다.')\">사람버튼 </button>\n</div>\n\n<hr/>\n\n<span style='font-size:15px; font-weight:bold;'>기본 조작키</span>\n\n<span style='font-size:12px; font-weight:bold;'> 이동및  조작키</span>\n\nW: 탑승구 조작 자 기준 앞으로 진행\nS: 탑승구 조작 자 기준 뒤로 진행\nA: 바퀴 각도를 왼족으로 진행\nD: 바퀴각도를 오른쪽으로 진행\nQ: 탑승구의 케브 부분을 왼쪽으로 진행 \nE: 탑승구의 케브 부분을 오른쪽으로 진행\nZ: 탑승구의 높이를 높임\nX: 탑승구의 높이를 낮춤\nR:: 탑승구의 위로 각도를 조절함\nF: 탑승구의 아래로 각도를 조절함\nT: 탑승구의 케브를 올림\nG: 탑승구의 케브를 내림\nC,V: 탑승구의 시점을 변경함\nC버튼 기준 카메라 시점 \n1.케브 앞부분 -> 2. 탑승교 윗부분 -> 3. 1인칭 시점 -> 4. 케브의 바깥부분 -> 5. 케브 도어 앞부분 -> 6. 2차 통로 중간부분 -> 7. 탑승교의 중앙 -> 8 자유시점"
     },
     {
       "id": 1785989439,
@@ -43,6 +43,7 @@
     }
   ],
   "logs": [
+    "[2026-08-08 22:16:25 KST] [매뉴얼 수정] [PC] 사탕이: 매뉴얼 '탑승교(제트웨이)사용법' 수정 완료",
     "[2026-08-08 22:07:20 KST] [보안 감지] [PC] 사탕이: 붙여넣기 감지 (Ctrl+V)",
     "[2026-08-08 22:07:18 KST] [보안 감지] [PC] 사탕이: 붙여넣기 감지 (Ctrl+V)",
     "[2026-08-08 22:07:16 KST] [보안 감지] [PC] 사탕이: 복사 감지 (Ctrl+C)",
