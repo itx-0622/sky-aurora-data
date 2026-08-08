@@ -14,11 +14,11 @@
   "user_blacklist": [],
   "manuals": [
     {
-      "id": 1786168622,
-      "category": "기본규정",
-      "pinned": true,
-      "title": "기본규칙",
-      "content": "1. 스탭들간에 말싸움이나 분쟁유도 금지\n\n2. 항공사 메인 커뮤에서 고객분들과 대화할때 예의를 갖춰주시길 바랍니다.\n\n2-2. 안지키는거 보일시 징계 하겠습니다.\n\n3. 비행중 승객들과 말싸움 하지 마시고 진상 고객있으면 밴해주세요.\n\n4. 비행중 FD(파일럿) 분들은 조종실 밖으로 나가지 말아주세요.\n\n5. 항공기 조명패널로 장난치지 마세요\n\n6. FD분들 랜딩하실때 꼭 버터로 안내려도 되니까 최소한 펌으로 랜딩 해주세요(하드랜딩 금지)\n\n7. 훈련중에 장난을 치거나 훈련과 상관없는 질문은 하지 마시길 바랍니다.\n\n8. 타인에게 이 서버 링크 보내지 마세요\n\n9. 타 항공사 언급은 가능하되 항공사 홍보는 하지 말아주세요\n\n10. 저희는 시험기간에 운항안합니다, 초등학생이신 staff들은 시험기간에 운항하고 싶다고 때쓰지 마세여\n\n11. stsff섭 욕설금지\n\n<span style='font-size:20px; font-weight:bold;'>14. 타서버에 피해 입히지 마세요</span>"
+      "id": 1786194169,
+      "category": "그라운드 크루(GC) 기본매뉴얼",
+      "pinned": false,
+      "title": "탑승교(제트웨이)사용법",
+      "content": "<span style='font-size:25px; font-weight:bold;'>탑승교 사용법</span>\n\n<hr/>\n\n<span style='font-size:15px; font-weight:bold;'>입장및 기본 상호작용 </span>\n\n1. 눈 버튼을 누르면 도어를 열수있다 \n<div style=\"margin:15px 0; position:relative; display:inline-block;\">\n    <button class=\"btn-ui\" onclick=\"showBubblePop(this, '눈버튼을 누르면 도어를 열거나 상호작용이 됩니다.')\">눈버튼</button>\n</div>\n<div class=\"key-display\">\n    <span>실제 버튼을 눌러보세요:</span>\n    <div id=\"active-key-cap\" class=\"key-cap\">KEY</div>\n</div>"
     },
     {
       "id": 1785989439,
@@ -43,6 +43,7 @@
     }
   ],
   "logs": [
+    "[2026-08-08 22:02:49 KST] [매뉴얼 수정] [PC] 사탕이: 매뉴얼 '탑승교(제트웨이)사용법' 수정 완료",
     "[2026-08-08 22:02:03 KST] [보안 감지] [PC] 사탕이: 붙여넣기 감지 (Ctrl+V)",
     "[2026-08-08 21:48:23 KST] [인증] [PC] 사탕이: 시스템 로그인 성공 (ID: 843621337066504225)",
     "[2026-08-08 15:14:59 KST] [인증] [PC] 사탕이: 시스템 로그인 성공 (ID: 843621337066504225)",
